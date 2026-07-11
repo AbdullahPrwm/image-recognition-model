@@ -26,6 +26,6 @@ pip install -r requirements.txt
 5. Run the script:
 python script.py
 
-<img width="1919" height="877" alt="image" src="https://github.com/AbdullahPrwm/image-recognition-model/blob/main/image/teachablemachine.png" />
-<img width="1919" height="877" alt="image" src="https://github.com/AbdullahPrwm/image-recognition-model/blob/main/image/Colab.png" />
-<img width="1919" height="877" alt="image" src="https://github.com/AbdullahPrwm/image-recognition-model/blob/main/image/Colab_result.png" />
+<img width="1200" height="750" alt="image" src="https://github.com/AbdullahPrwm/image-recognition-model/blob/main/image/teachablemachine.png" />
+<img width="1200" height="750" alt="image" src="https://github.com/AbdullahPrwm/image-recognition-model/blob/main/image/Colab.png" />
+<img width="1200" height="750" alt="image" src="https://github.com/AbdullahPrwm/image-recognition-model/blob/main/image/Colab_result.png" />
